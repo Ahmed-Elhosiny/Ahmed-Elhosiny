@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Doctorz**
 
-- 💬 Ask me about **NodeJS, Express, Mongoose**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ahmedelhosiny842@gmail.com**
 
